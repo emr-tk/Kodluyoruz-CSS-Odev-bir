@@ -1,0 +1,62 @@
+h1{
+    color: red;
+    text-align: center;
+    padding-top: 1.5rem;
+}
+.a-h1{
+    text-decoration: none;
+    color: red;
+}
+.a-h1:hover{
+    color: rgba(255, 0, 0, 0.432);
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+    padding-top: 2rem;
+}
+.nav-a{
+    padding: 0 10px;
+    color: blue;
+}
+.nav-a:hover{
+    color: rgba(0, 0, 255, 0.425);
+}
+.nav-a:active{
+    color: red;
+}
+article{
+    padding-top: 1.5rem;
+    text-align: center;
+
+}
+h2{
+    padding-bottom: 1rem;
+}
+p{padding-bottom: 1rem;}
+h3{
+    padding-bottom: 1rem;
+    color: saddlebrown;
+}
+
+.Muzik-ul li{
+    padding-bottom: 0.5rem;
+}
+.Muzik-ul li a:hover{
+    color: rgba(0, 0, 255, 0.37);
+}
+.Ul-a{font-size: 1.5rem;}
+.Ul-a:hover{color: rgba(0, 0, 255, 0.37);}
+.Ol-img:hover{opacity: 0.4;}
+.urun-ol li{padding-bottom: 20px;}
+.keman-img{padding-top: 50px;}
+.hak-div{    
+    text-align: left;
+    padding: 10px 20px;
+    
+}
+.hak-div h3{color: red;}
+.arc-urun{padding-top: 30px;}
+
